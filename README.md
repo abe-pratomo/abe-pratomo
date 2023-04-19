@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abe-pratomo
 - 👀 I’m interested in software and hardware technology, politics, Christianity, etc.
-- 🌱 I’m currently learning Electrical and Telecommunication Engineering in Institut Teknologi Bandung
+- 🌱 I’m currently learning Electrical Engineering in Institut Teknologi Bandung
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Instagram - @abe.pratomo
 
